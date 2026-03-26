@@ -63,6 +63,9 @@ Help users upload a CSV dataset, understand its structure and issues, review AI-
 - Classification first
 - Regression can be added if time allows
 
+### Learning type supported
+- Supervised learning
+
 ### Suggestion types for MVP
 - missing value handling suggestions
 - duplicate row detection
